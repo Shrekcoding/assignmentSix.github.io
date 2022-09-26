@@ -1,0 +1,13 @@
+header, div {
+  border: solid darkgray medium;
+  padding: 2em;
+}
+
+button{
+  margin: 1em;
+}
+
+button{
+  padding: 1.1em;
+  background-color: pink;
+}
